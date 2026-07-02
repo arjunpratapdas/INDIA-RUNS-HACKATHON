@@ -26,3 +26,9 @@ This project demonstrates an AI-powered resume ranking system for a **Deloitte F
 ---
 
 ## 📂 Repository Contents
+
+├── README.md # This file
+├── Job_Description.txt # Deloitte Full Stack Developer JD
+├── Ranked_Candidates_Deloitte.xlsx # Final ranked output from Redrob
+├── Analysis_results.py # Python script for CSV analysis
+├── Decription.txt
